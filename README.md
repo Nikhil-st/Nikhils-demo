@@ -1,3 +1,3 @@
 # Nikhils-demo
 This is my first git Repository
-Author- Nikhil Thakur
+Author- Nikhil Thakur.
